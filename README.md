@@ -1,8 +1,8 @@
 # LeetCode_OnlineJudge
 
-leetcode problem's solutions
+- Solutions to Leetcode's Problem Sets
 
-folder 'p[N]' means code of 'problem #N to #N+100'
+- Problems #N through #N+100 fall into folder 'p[N]' 
 
-e.g. p0000 includes 'problem #0' to problem #99'
-     p0500 includes 'problem #500' to 'problem #599'
+- e.g. p0000 contains 'problem #0' through 'problem #99'
+     p0500 contians 'problem #500' through 'problem #599'
